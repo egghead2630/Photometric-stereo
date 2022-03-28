@@ -13,4 +13,10 @@ https://pages.cs.wisc.edu/~csverma/CS766_09/Stereo/stereo.html
     
     I also write a report for this implementation, named 310552006_report in the repo.
     
+# Result:
+
+    Bunny:
+    
+        
+    
     

@@ -17,7 +17,7 @@ https://pages.cs.wisc.edu/~csverma/CS766_09/Stereo/stereo.html
 
     Bunny:
     
-        ![img1](https://github.com/egghead2630/VRDL_HW2/blob/main/result.png)
+        ![img1] (https://github.com/egghead2630/Photometric-stereo/blob/main/bunny.png)
 
         
     
